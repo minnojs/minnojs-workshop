@@ -5,6 +5,6 @@ define(['timeAPI'], function(APIConstructor) {
     API.addSequence([
 
     ]);	
-			
-	return API.script;
+
+    return API.script;
 });

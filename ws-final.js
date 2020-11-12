@@ -47,6 +47,6 @@ define(['timeAPI'], function(APIConstructor) {
             ]
         }
     ]);	
-			
-	return API.script;
+
+    return API.script;
 });
