@@ -7,8 +7,8 @@ define(['timeAPI'], function(APIConstructor) {
         {word:'Bad'},
         {word:'Light'},
         {word:'Dark'},
-        {word:'Awsome'},
-        {word:'Horible'}
+        {word:'Awesome'},
+        {word:'Horrible'}
     ]);
 
     API.addSequence([
