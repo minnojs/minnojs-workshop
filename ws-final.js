@@ -24,7 +24,7 @@ define(['timeAPI'], function(APIConstructor) {
                     stimuli: [
                         { media: 'Good', location: {top:0,left:0}},
                         { media: 'Bad', location: {top:0,right:0}},
-                        { media :{inherit:'attributes'}, handle:'target'}
+                        { media :{inherit:'attributes'}, handle:'target', size: {fontSize:'2em'}
                     ],
                     interactions: [
                         {
